@@ -13,6 +13,17 @@ Build an API service that would allow users to
 ```
 Note, there should be two API endpoints, one for uploading an image and one for downloading a processed image.
 
+Set up virtual environment for python 
+In the virtualenvironment, install the dependencies
+### `pip install -r requirements.txt`
+
+Run the command
+
+### `python main.py`
+
+Open the browser and type in the following url in the address bar
+http://localhost:8000/docs
+
 
 FAQ
 - Q: Where should i store the image
